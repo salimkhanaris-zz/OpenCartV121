@@ -23,7 +23,7 @@
                     <configuration>
                         <suiteXmlFiles>
                             <suiteXmlFile>
-                                grid-docker.xml
+                                master.xml
                             </suiteXmlFile>
                         </suiteXmlFiles>
                     </configuration>
